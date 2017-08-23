@@ -1,0 +1,19 @@
+body{
+    background-color: blue;
+    padding: 10px;
+    
+}
+.pictures{
+    width: 24%;
+    height:350px;
+    /* position: fixed; */
+   
+}
+.left{
+    margin-left: 15px;
+    width: 24%;
+    height:350px;;
+}
+#button{
+    margin-left: 48%;
+}
